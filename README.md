@@ -10,4 +10,4 @@ Currently, two official plugins are available:
 
 ### Working Demo of Frontend Task on Deployed Link
 
-[text](<../../Screen Recording 2025-02-12 at 5.42.18 PM.mov>)
+https://www.loom.com/share/30d41680d5db44008fff7e752baadb20?sid=7dcca850-ba58-46f8-8a55-9b0cccca01d2
